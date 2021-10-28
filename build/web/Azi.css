@@ -1,0 +1,15 @@
+body{
+    background-color: gray;
+}
+.lm{
+    position: relative;
+    border-color: yellow;
+    position: absolute;
+    background: wheat;
+    left: 40%;
+    top: 10%;
+    padding: 3% 3%;
+    border-radius: 3%;
+    
+}
+
